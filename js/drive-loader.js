@@ -234,7 +234,8 @@ class DriveLoader {
                 <div class="final-image-content">
                     <h3>${index === 0 ? 'Excelencia Educativa' : 'Comunidad Global'}</h3>
                     <p>${index === 0 ? 
-                        'Formación de calidad con metodologías innovadoras' : 
+                        'Formación de calidad' : 
+                        /* 'Formación de calidad con metodologías innovadoras' :  */
                         'Conectando culturas a través del aprendizaje de idiomas'
                     }</p>
                 </div>
