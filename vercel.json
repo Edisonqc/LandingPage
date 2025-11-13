@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "/coar",
+      "dest": "/coar.html"
+    },
+    {
+      "src": "/quechua", 
+      "dest": "/quechua.html"
+    },
+    {
+      "src": "/ingles",
+      "dest": "/ingles.html"
+    }
+  ]
+}
